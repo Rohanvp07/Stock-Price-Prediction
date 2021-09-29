@@ -1,0 +1,6 @@
+fbprophet
+matplotlib
+matplotlib-inline
+streamlit
+yfinance
+plotly
