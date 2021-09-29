@@ -4,3 +4,4 @@ matplotlib-inline
 streamlit
 yfinance
 plotly
+pystan
