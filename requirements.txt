@@ -4,4 +4,4 @@ matplotlib-inline
 streamlit
 yfinance
 plotly
-pystan
+pystan==2.14
